@@ -17,6 +17,8 @@ class Song
 
   def self.genres
     @@genres = []
-    
+    if genre != genre
+      initialize
+    end 
 
 end
