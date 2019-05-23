@@ -19,9 +19,11 @@ end
     @@count
   end
 
+  @@genres = []
+  
   def self.genres
-    @@genres = []
-    
+    @@genres.unique
+
   end
 
 end
