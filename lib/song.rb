@@ -19,7 +19,7 @@ class Song
     @@genres = []
     if genre != genre
       genre.initialize
-    end 
+    end
   end
 
 end
