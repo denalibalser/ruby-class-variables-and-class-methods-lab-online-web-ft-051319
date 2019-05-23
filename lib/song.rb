@@ -20,10 +20,9 @@ end
   end
 
   @@genres = []
-  
+
   def self.genres
     @@genres.unique
-
   end
 
 end
