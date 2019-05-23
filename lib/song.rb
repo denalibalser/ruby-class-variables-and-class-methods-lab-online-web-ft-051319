@@ -25,7 +25,7 @@ class Song
   @@artists = []
 
   def self.artists
-    
+
   end
 
 end
